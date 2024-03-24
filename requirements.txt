@@ -1,0 +1,5 @@
+langchain 
+langchain-nvidia-ai-endpoints
+gradio
+langserve
+sse_starlette
